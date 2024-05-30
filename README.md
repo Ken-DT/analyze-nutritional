@@ -112,7 +112,7 @@ Replace `your-github-username` with your actual GitHub username.
 
 ## Credits
 
-This project was created as part of a web development course. It is designed to demonstrate the use of asynchronous API calls, form handling, and dynamic content generation in a web application.
+This project was created as part of a Javascript Fundamentals class at CanCode  Communities. It is designed to demonstrate the use of asynchronous API calls, form handling, and dynamic content generation in a web application.
 
 ## License
 
