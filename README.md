@@ -26,7 +26,7 @@ This project is a Nutrition Analysis App that uses the Edamam API to provide det
 
    You can access the Nutrition Analysis App through GitHub Pages at the following URL:
 
-   https://your-github-username.github.io/nutrition-analysis-app/
+   https://Ken-DT.github.io/analyze-nutritional/
 
 Replace `your-github-username` with your actual GitHub username.
 
@@ -62,7 +62,7 @@ After submitting the form, the nutritional analysis per serving will be displaye
 
 - `index.html`: The main HTML file containing the structure of the form and content area.
 - `styles.css`: The CSS file for styling the form and content area.
-- `js/nutritional.js`: The JavaScript file containing the logic for handling form submissions and displaying nutritional analysis.
+- `nutritional.js`: The JavaScript file containing the logic for handling form submissions and displaying nutritional analysis.
 - `README.md`: This file.
 
 ## Getting an API Key
