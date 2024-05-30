@@ -116,4 +116,4 @@ This project was created as part of a Javascript Fundamentals class at CanCode  
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License..
