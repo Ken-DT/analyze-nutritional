@@ -26,7 +26,7 @@ This project is a Nutrition Analysis App that uses the Edamam API to provide det
 
    You can access the Nutrition Analysis App through GitHub Pages at the following URL:
 
-   https://your-github-username.github.io/nutrition-analysis-app/
+   https://Ken-DT.github.io/nutrition-analysis-app/
 
 Replace `your-github-username` with your actual GitHub username.
 
